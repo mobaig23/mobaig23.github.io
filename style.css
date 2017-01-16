@@ -26,3 +26,6 @@ h4{
 img {
   width: 300px
   }
+.jumbotron {
+  background-image: url(sf.jpg)
+}
